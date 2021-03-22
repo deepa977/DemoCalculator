@@ -8,8 +8,11 @@ namespace CalculatorProject
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Calculator c = new Calculator();
+            c.Add();
+            Console.Read();
         }
     }
 }

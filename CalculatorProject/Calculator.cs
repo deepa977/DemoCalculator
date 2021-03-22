@@ -8,8 +8,13 @@ namespace CalculatorProject
 {
     class Calculator
     {
-        int x;
-        int y;
-        int result;
+        public void Add()
+        {
+            int x=5;
+            int y=6;
+            int result=x+y;
+            Console.WriteLine("Addition = {0}", result);
+
+        }
     }
 }
