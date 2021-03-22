@@ -26,5 +26,16 @@ namespace CalculatorProject
             int result = x - y;
             Console.WriteLine("Sub: " + result);
         }
+
+        public void division()
+        {
+            Console.WriteLine("Enter 1st number");
+            int x = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter 2nd number");
+            int y = int.Parse(Console.ReadLine());
+
+            double result = x / y;
+            Console.WriteLine("Division: " + result);
+        }
     }
 }
