@@ -16,5 +16,15 @@ namespace CalculatorProject
             Console.WriteLine("Addition = {0}", result);
 
         }
+        public void sub()
+        {
+            Console.WriteLine("Enter 1st number");
+           int x = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter 2nd number");
+            int y = int.Parse(Console.ReadLine());
+
+            int result = x - y;
+            Console.WriteLine("Sub: " + result);
+        }
     }
 }
