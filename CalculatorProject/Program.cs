@@ -10,8 +10,8 @@ namespace CalculatorProject
     {
         static void Main()
         {
-            Calculator c = new Calculator();
-            c.Add();
+            Calculator d = new Calculator();
+            d.Add();
             Console.Read();
             //Commit
         }
