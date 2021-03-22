@@ -50,5 +50,9 @@ namespace CalculatorProject
         {
             Console.WriteLine("Func 2....");
         }
+        public void AzureDevopsFunc3()
+        {
+            Console.WriteLine("Func 3");
+        }
     }
 }
