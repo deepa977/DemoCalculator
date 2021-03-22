@@ -41,5 +41,14 @@ namespace CalculatorProject
         {
             Console.WriteLine("Tested new function.........");
         }
+        public void Func1()
+        {
+            Console.WriteLine("Func 1....");
+
+        }
+        public void Func2()
+        {
+            Console.WriteLine("Func 2....");
+        }
     }
 }
