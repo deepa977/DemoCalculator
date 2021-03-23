@@ -58,6 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AzureTest.cs" />
     <Compile Include="Calculator.cs" />
     <Compile Include="NewClass.cs" />
     <Compile Include="Program.cs" />
