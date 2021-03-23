@@ -16,5 +16,9 @@ namespace CalculatorProject
         {
             Console.WriteLine("New Method by Bhavin");
         }
+        public void Test2()
+        {
+            Console.WriteLine("Azharudeen New Method");
+        }
     }
 }
