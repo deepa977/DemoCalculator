@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CalculatorProject
 {
+  
     class Calculator
     {
         public void Add()
@@ -64,4 +65,6 @@ namespace CalculatorProject
             Console.WriteLine("Func 4");
         }
     }
+
+   
 }
