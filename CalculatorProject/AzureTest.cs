@@ -13,5 +13,11 @@ namespace CalculatorProject
             Console.WriteLine("Azure Devops CI/CD....... by Deepa");
 
         }
+        public void AzureDevopsTest1()
+        {
+            Console.WriteLine("Azure Devops CI/CD....... by Bhavin");
+
+        }
+
     }
 }
