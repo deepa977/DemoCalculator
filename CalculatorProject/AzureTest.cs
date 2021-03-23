@@ -19,7 +19,7 @@ namespace CalculatorProject
 
         }
 
-        public void name1()
+        public void AzureDevopsTest2()
         {
             Console.WriteLine("Method by Shaista!!");
         }
