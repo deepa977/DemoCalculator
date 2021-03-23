@@ -59,5 +59,9 @@ namespace CalculatorProject
         {
             Console.WriteLine("Func 3");
         }
+        public void Func4()
+        {
+            Console.WriteLine("Func 4");
+        }
     }
 }
