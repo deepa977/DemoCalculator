@@ -37,6 +37,11 @@ namespace CalculatorProject
             double result = x / y;
             Console.WriteLine("Division: " + result);
         }
+
+        public void name()
+        {
+            Console.WriteLine("My name is Shaista!!!");
+        }
         public void Test()
         {
             Console.WriteLine("Tested new function.........");
