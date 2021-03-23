@@ -12,7 +12,7 @@ namespace CalculatorProject
         {
             Console.WriteLine("Deepa New Method.....");
         }
-        public void Test1()
+        public void Test3()
         {
             Console.WriteLine("Aniesha New Method.....");
         }
