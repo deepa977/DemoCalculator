@@ -12,5 +12,9 @@ namespace CalculatorProject
         {
             Console.WriteLine("Deepa New Method.....");
         }
+        public void Test1()
+        {
+            Console.WriteLine("New Method by Bhavin");
+        }
     }
 }
