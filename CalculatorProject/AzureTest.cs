@@ -28,5 +28,9 @@ namespace CalculatorProject
         {
             Console.WriteLine("Method by Shaista!!");
         }
+        public void AzureDevopsTest3()
+        {
+            Console.WriteLine("Method Created by AZHARUDEEN");
+        }
     }
 }
