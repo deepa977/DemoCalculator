@@ -14,7 +14,15 @@ namespace CalculatorProject
         }
         public void Test1()
         {
+            Console.WriteLine("Aniesha New Method.....");
+        }
+        public void Test1()
+        {
             Console.WriteLine("New Method by Bhavin");
+        }
+        public void Test2()
+        {
+            Console.WriteLine("Azharudeen New Method");
         }
     }
 }
